@@ -6,7 +6,8 @@ This repository contains projects I've created while learning Python. It include
 
 ## Projects 📓
 
-- BASIC CALCULATOR                                                                                                                         - TEXT TO SPEECH PROGRAM (Using pyttsx3 library)
+- BASIC CALCULATOR
+- TEXT TO SPEECH PROGRAM (Using pyttsx3 library)
 - LOGIN PROGRAM
 - TYPEWRITER EFFECT
 

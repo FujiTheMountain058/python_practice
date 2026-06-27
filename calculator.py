@@ -1,19 +1,19 @@
-num1 = input("1st number: ")
-num2 = input("2nd number: ")
+num1 = float(input("1st number: "))
+num2 = float(input("2nd number: "))
 op = input("Operation: ")
 
 class Operations:
 	def add(self):
-		calAdd = int(num1) + int(num2)
+		calAdd = num1 + num2
 		print(str(calAdd))
 	def sub(self):
-		calSub = int(num1) - int(num2)
+		calSub = num1 - num2
 		print(str(calSub))
 	def mul(self):
-		calMul = int(num1) * int(num2)
+		calMul = num1 * num2
 		print(str(calMul))
 	def div(self):
-		calDiv = int(num1) / int(num2)
+		calDiv = num1 / num2
 		print(str(calDiv))
 
 if op == "+":
